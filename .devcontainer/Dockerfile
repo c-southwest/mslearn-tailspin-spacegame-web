@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/dotnet:6.0
+FROM mcr.microsoft.com/dotnet/sdk:8.0-noble
 
 # Install NodeJS
 # [Choice] Node.js version: none, lts/*, 18, 16, 14
